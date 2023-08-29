@@ -2,7 +2,7 @@
   "name": "Fonky tokens",
   "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2/logo.png",
   "keywords": ["Fonky", "Swap"],
-  "timestamp": "2023-8-27T18:18:00+00:00",
+  "timestamp": "2023-08-27T18:18:00+00:00",
   "tokens": [
     {
       "name": "PancakeSwap Token",
