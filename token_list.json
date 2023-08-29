@@ -2877,12 +2877,12 @@
       "symbol": "DTX"
     },
     {
-      "address": "0xAcD7B3D9c10e97d0efA418903C0c7669E702E4C0",
+      "address": "0x0d500B1d8E8eF31E21C99d1Db9A6444d3ADf1270",
       "chainId": 137,
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/polygon/assets/0xAcD7B3D9c10e97d0efA418903C0c7669E702E4C0/logo.png",
-      "name": "Eleven.finance",
-      "symbol": "ELE"
+      "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/polygon.jpg",
+      "name": "Wrapped Matic",
+      "symbol": "WMATIC"
     },
     {
       "address": "0x60Ed6aCEF3a96F8CDaF0c0D207BbAfA66e751af2",
