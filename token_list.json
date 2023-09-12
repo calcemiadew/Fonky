@@ -3652,6 +3652,22 @@
       "name": "IRON Titanium",
       "symbol": "TITAN"
     }
+        {
+      "address": "0x2791Bca1f2de4661ED88A30C99A7a9449Aa84174",
+      "chainId": 137,
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/usdc.jpg",
+      "name": "USD Coin",
+      "symbol": "USDC"
+    },
+    {
+      "address": "0xc2132D05D31c914a87C6611C10748AEb04B58e8F",
+      "chainId": 137,
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/usdt.jpg",
+      "name": "Tether USD",
+      "symbol": "USDT"
+    },
   ],
   "version": {
     "major": 1,
