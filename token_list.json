@@ -3667,7 +3667,7 @@
       "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/usdt.jpg",
       "name": "Tether USD",
       "symbol": "USDT"
-    },
+    }
   ],
   "version": {
     "major": 1,
